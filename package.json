@@ -1,0 +1,34 @@
+{
+    "nativescript": {
+        "id": "org.nativescript.glimmernativedemo",
+        "tns-android": {
+            "version": "5.2.0"
+        },
+        "tns-ios": {
+            "version": "5.2.0"
+        }
+    },
+    "description": "NativeScript Application",
+    "license": "SEE LICENSE IN <your-license-filename>",
+    "repository": "<fill-your-repository-here>",
+    "dependencies": {
+        "@glimmer/bundle-compiler": "^0.39.2",
+        "@glimmer/interfaces": "^0.39.2",
+        "@glimmer/object-reference": "^0.39.2",
+        "@glimmer/opcode-compiler": "^0.39.2",
+        "@glimmer/program": "^0.39.2",
+        "@glimmer/runtime": "^0.39.2",
+        "@glimmer/util": "^0.39.2",
+        "@simple-dom/document": "^1.4.0",
+        "@simple-dom/interface": "^1.4.0",
+        "@simple-dom/serializer": "^1.4.0",
+        "@simple-dom/void-map": "^1.4.0",
+        "nativescript-theme-core": "~1.0.4",
+        "tns-core-modules": "~5.2.0"
+    },
+    "devDependencies": {
+        "nativescript-dev-webpack": "~0.20.0"
+    },
+    "gitHead": "59b6da006346fedb5bb201fcc9cd7d204a69a82f",
+    "readme": "NativeScript Application"
+}
